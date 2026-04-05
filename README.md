@@ -31,7 +31,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [AdvisoryWeek](https://advisoryweek.com/) - A roundup of the security advisories that were published each week by major software vendors (Apple, Adobe, Microsoft, Oracle, etc.), built by Pete Freitag [(@pfreitag)](https://twitter.com/pfreitag).
 
-- [Risky.Biz](https://srslyriskybiz.substack.com/subscribe) - It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
+- [Risky.Biz](https://news.risky.biz/) - It’s your weekly digest and analysis of the big stories shaping cyber policy. Prepared by Brett Winterford [(@breditor)](https://twitter.com/breditor), Tom Uren [(@tomatospy)](https://twitter.com/tomatospy), and Patrick Gray [(@riskybusiness)](https://twitter.com/riskybusiness).
 
 - [Last Week in AWS Security](https://www.lastweekinaws.com/newsletter/) - Corey Quinn's newsletter focused on AWS Security
 
