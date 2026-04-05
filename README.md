@@ -17,7 +17,7 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [Blockchain Threat Intelligence](https://www.blockthreat.io/) - A weekly, independent newsletter to capture the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape - Peter Kacherginsky [(@\_iphelix)](https://twitter.com/_iphelix).
 
-- [AWS Security Digest](https://asd.zoph.io) - Adopt a slow-tech 🐌 approach by reading only essential info on AWS Security landscape – once a week –  on Monday.
+- [AWS Security Digest](https://awssecuritydigest.com/) - Adopt a slow-tech 🐌 approach by reading only essential info on AWS Security landscape – once a week –  on Monday.
 
 - [MEM and Windows Weekly Community Newsletter](https://www.danielengberg.com/category/newsletter/) - The latest Microsoft Endpoint Manager, Intune, Microsoft Endpoint Configuration Manager, Powershell, and Windows 11 news every week! Also, you will find a big selection of tools and solutions-  Daniel Engberg [(@danielclasson)](https://twitter.com/danielclasson)
 
