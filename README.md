@@ -21,8 +21,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [MEM and Windows Weekly Community Newsletter](https://www.danielengberg.com/category/newsletter/) - The latest Microsoft Endpoint Manager, Intune, Microsoft Endpoint Configuration Manager, Powershell, and Windows 11 news every week! Also, you will find a big selection of tools and solutions-  Daniel Engberg [(@danielclasson)](https://twitter.com/danielclasson)
 
-- [Security, Funded](https://www.returnonsecurity.com/) - Get the free newsletter recapping investing in the cybersecurity and privacy space delivered weekly to your inbox - Mike Privette [(@mikepsecuritee)](https://twitter.com/mikepsecuritee)
-
 - [GRC Engineer](https://grcengineer.com) - The weekly newsletter engineering the future of the security GRC field, where leaders from the biggest tech companies improve their GRC programs - Ayoub Fandi
 
 - [RTCSec Newsletter](https://www.rtcsec.com/newsletter/) - A free monthly newsletter bringing you commentary and news around VoIP and WebRTC security. Covers both defensive and offensive security as they relate to Real-time Communications. Prepared by Sandro Gauci [(@sandrogauci)](https://twitter.com/sandrogauci).
