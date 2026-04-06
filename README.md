@@ -69,8 +69,6 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 
 - [U.S. Department of Homeland Security](https://public.govdelivery.com/accounts/USDHS/subscriber/new) - Sign up to receive free e-mails to get updates on a variety of U.S. Department of Homeland Security cyber security topics.
 
-- [CyberWeekly](https://cyberweekly.substack.com/) - A weekly roundup of cyber security, technology and digital content presented with a small amount of editorial comment
-
 - [Unsupervised Learning Community](https://danielmiessler.com/newsletter/) - Daniel spends 20+ hours a week consuming content, and every Monday morning he sends a summary of the most important stories - Daniel Miessler [(@DanielMiessler)](https://twitter.com/DanielMiessler)
 
 - [IT Security Weekend Catch Up](https://badcyber.com/) - Every week BadCyber [(@badcybercom)](https://twitter.com/badcybercom) put together a curated list of all important security news in one place.
